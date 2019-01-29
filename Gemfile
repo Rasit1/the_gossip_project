@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+ruby '2.5.3'
+gem 'rspec'
+gem 'pry'
+gem 'sinatra'
+gem 'twilio-ruby'
+gem 'shotgun'
+gem 'csv'
